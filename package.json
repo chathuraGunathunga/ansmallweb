@@ -1,0 +1,11 @@
+{
+  "name": "ansmallweb",
+  "version": "1.0.0",
+  "description": "testapp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chathuraGunathunga/ansmallweb.git"
+  },
+  "author": "H.M.C.I Gunathunga",
+
+}
